@@ -1,5 +1,6 @@
 import heapq
 
+
 def path_finder(maze):
     maze = [[int(dig) for dig in row] for row in maze.split('\n')]
     end = (len(maze)-1, len(maze)-1)

@@ -1,6 +1,8 @@
 .idea
 **/*.lprof
+**/*.prof
 **/*dupa*
+_wip*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
