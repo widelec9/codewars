@@ -3,6 +3,7 @@
 **/*.prof
 **/*dupa*
 _wip*
+**/*sandbox*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
