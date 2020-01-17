@@ -1,1 +1,0 @@
-squirrel=lambda h,H,S:round(H*(S*S+h*h)**0.5/h,4)
