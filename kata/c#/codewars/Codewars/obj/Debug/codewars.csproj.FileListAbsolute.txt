@@ -1,0 +1,7 @@
+C:\Users\maciej.habant\Desktop\codewars\kata\c#\codewars\codewars\obj\Debug\codewars.csprojAssemblyReference.cache
+C:\Users\maciej.habant\Desktop\codewars\kata\c#\codewars\codewars\obj\Debug\codewars.csproj.CoreCompileInputs.cache
+C:\Users\maciej.habant\Desktop\codewars\kata\c#\codewars\codewars\bin\Debug\codewars.exe.config
+C:\Users\maciej.habant\Desktop\codewars\kata\c#\codewars\codewars\bin\Debug\codewars.exe
+C:\Users\maciej.habant\Desktop\codewars\kata\c#\codewars\codewars\bin\Debug\codewars.pdb
+C:\Users\maciej.habant\Desktop\codewars\kata\c#\codewars\codewars\obj\Debug\codewars.exe
+C:\Users\maciej.habant\Desktop\codewars\kata\c#\codewars\codewars\obj\Debug\codewars.pdb
