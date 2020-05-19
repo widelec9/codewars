@@ -6,27 +6,14 @@ using System.Threading.Tasks;
 
 namespace Codewars._6kyu
 {
+    using System.Net;
     public class Kata
     {
         public static bool is_valid_IP(string ipAddress)
         {
-            bool isValid = false;
-            if (ipAddress.Contains('.'))
-            {
-                string[] ipSplit = ipAddress.Split('.');
-                if (ipSplit.Length == 4)
-                {
-                    foreach (string str in ipSplit)
-                    {
-                        if (0 <= int.Parse(str) && int.Parse(str) <= 255)
-                        {
-                            isValid = true;
-                        }
-                    }
-                }
-            }
-
-            return isValid;
+            IPAddress ipAddr;
+            bool isValid = IPAddress.TryParse(ipAddress, out ipAddr);
+            return isValid && ipAddr.ToString().Equals(ipAddress);
         }
     }
 }

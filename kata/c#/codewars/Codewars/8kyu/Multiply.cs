@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Codewars._8kyu
 {
-    public class CustomMath
+    public class Kata
     {
         public static int multiply(int a, int b)
         {
